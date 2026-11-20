@@ -7,3 +7,4 @@ All testing is done only on my own apps and devices.
 | # | Topic | Category |
 |---|---|---|
 | 01 | [Exported debug receivers: a backdoor you add yourself](01-exported-debug-receivers.md) | CWE-926 Improper export of Android components |
+| 02 | [Supabase: one table without RLS, and RLS that protects rows but not columns](02-supabase-rls-is-not-column-security.md) | CWE-862 Missing authorization · CWE-915 Mass assignment |
