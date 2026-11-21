@@ -8,3 +8,4 @@ All testing is done only on my own apps and devices.
 |---|---|---|
 | 01 | [Exported debug receivers: a backdoor you add yourself](01-exported-debug-receivers.md) | CWE-926 Improper export of Android components |
 | 02 | [Supabase: one table without RLS, and RLS that protects rows but not columns](02-supabase-rls-is-not-column-security.md) | CWE-862 Missing authorization · CWE-915 Mass assignment |
+| 03 | [A backup file is untrusted input too: one integer freezes the app, one date breaks a screen for good](03-a-backup-file-is-untrusted-input.md) | CWE-20 Improper input validation · CWE-190 Integer overflow · CWE-835 Infinite loop |
